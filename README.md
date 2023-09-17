@@ -1,5 +1,3 @@
-# aebrough.github.io
-courseera test repository
 <!DOCTYPE html>
 <html lang="en">
 <head>
